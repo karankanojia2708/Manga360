@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "620309199198",
+    "firebase_url": "https://manga360-1e550.firebaseio.com",
+    "project_id": "manga360-1e550",
+    "storage_bucket": "manga360-1e550.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:620309199198:android:136f2e726c4975da",
+        "android_client_info": {
+          "package_name": "com.the.manga360"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "620309199198-5dkmmvfqjib7a0tjuculp4ehjflcndl0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.the.manga360",
+            "certificate_hash": "52b19015d31a73b3767a43a50dc7e64844e5e624"
+          }
+        },
+        {
+          "client_id": "620309199198-gnrnhpgt7r9tf29bfhu5vhhc0hbbm5ak.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDMKyHmQDXkmGOLzMt5yjyJL8GCvTtDMqU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "620309199198-gnrnhpgt7r9tf29bfhu5vhhc0hbbm5ak.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
